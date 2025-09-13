@@ -1,0 +1,6 @@
+# Ignore the user-specific tasks data file
+tasks.json
+
+# Ignore Python cache directories and files
+__pycache__/
+*.pyc
